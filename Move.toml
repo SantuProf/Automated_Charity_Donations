@@ -1,0 +1,15 @@
+[package]
+name = "Automated-Charity-Donations"
+version = "1.0.0"
+authors = []
+
+[addresses]
+MyModule = "0x4608e8706facea1670fb920774601fcef1d471ac33635c68c39f47336f18033f"
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
