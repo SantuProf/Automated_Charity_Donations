@@ -1,13 +1,13 @@
 📌 Project Title
 Charity Donation Smart Contract
 
-📝 Project Description
+## 📝 Project Description
 The Charity Donation smart contract is a decentralized system built on the Aptos blockchain that enables users to donate Aptos tokens to charitable organizations. It automates the process of creating charity accounts and allows seamless transfer of donations, ensuring transparency and traceability of all transactions.
 
-🌟 Project Vision
+## 🌟 Project Vision
 The goal of this project is to leverage blockchain technology to create a secure and transparent donation platform. By utilizing smart contracts, it ensures that donations reach the intended charity without intermediaries, reducing the risk of fraud and promoting trust.
 
-🚀 Future Scope
+## 🚀 Future Scope
 Multi-Token Support: Extend the contract to accept multiple types of tokens beyond AptosCoin.
 Donation Tracking: Implement additional functionality to track individual donations and donors.
 User Interface: Develop a web-based front-end to simplify the donation process.
@@ -29,5 +29,7 @@ Security and Efficiency:
 Utilizes the Aptos blockchain framework for secure and efficient token transfers.
 Prevents unauthorized access by restricting modification permissions.
 
-##Contact Address:
-C:\Users\Soham Mondal\Pictures\Screenshots\Screenshot 2025-03-18 165658.png
+##Contact Address: 0x42916e5fde02983f84d75146f7de686916eb2d9408a805ec2ded4bcc69dd3d52
+![Screenshot 2025-03-18 165658](https://github.com/user-attachments/assets/fedf8e1a-f3ab-49f5-9008-429509acda19)
+
+
